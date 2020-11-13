@@ -53,5 +53,5 @@
 			</plugin>
 		</plugins>
 	</build>
-	<dependencies><dependency><groupId>net.sf.saxon.Transform</groupId><artifactId>Saxon-HE</artifactId><version>1.0</version></dependency><dependency><groupId>commons-lang</groupId><artifactId>commons-lang</artifactId><version>2.5</version></dependency></dependencies>
+	<dependencies><dependency><groupId>net.sf.saxon.Transform</groupId><artifactId>Saxon-HE</artifactId><version>1.0</version></dependency><dependency><groupId>commons-lang</groupId><artifactId>commons-lang</artifactId><version>2.6</version></dependency></dependencies>
 </project>
